@@ -1,115 +1,115 @@
 {
-  "version": "2026.10.13.1",
-  "sha256": "d4103b6e82a0caf15385b2f45e1c9cad09094ce6372c4c4a080b01b0bb44655f",
-  "notes": "自动更新版 2026.10.13.1",
+  "version": "2026.10.13.2",
+  "sha256": "b305a32049c88327b666d5659d880960608b291f1eb813201411b61d8d1676fc",
+  "notes": "自动更新版 2026.10.13.2",
   "parts": [
     {
       "sha256": "5477aac5de09eb04dd7e599faf4ae2074ca99da98c27dc79095205f30aa4bcb5",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.1_5477aac5.part1.bin",
-        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.1_5477aac5.part1.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.2_5477aac5.part1.bin",
+        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.2_5477aac5.part1.bin"
       ]
     },
     {
       "sha256": "5b2c8097a5d10a9ab0c7383a780e96137d4498a297412d27c941ebd232a964cd",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.1_5b2c8097.part2.bin",
-        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.1_5b2c8097.part2.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.2_5b2c8097.part2.bin",
+        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.2_5b2c8097.part2.bin"
       ]
     },
     {
       "sha256": "cc3a2d7bf6d7325bf0530cbb12a037e64dff6e013f4b21172b95aff1c1817e4b",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.1_cc3a2d7b.part3.bin",
-        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.1_cc3a2d7b.part3.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.2_cc3a2d7b.part3.bin",
+        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.2_cc3a2d7b.part3.bin"
       ]
     },
     {
       "sha256": "5a9c1a94910bcb2df3763b18df9b857d1c1898f7eb3e83fd58087476becb5198",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.1_5a9c1a94.part4.bin",
-        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.1_5a9c1a94.part4.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.2_5a9c1a94.part4.bin",
+        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.2_5a9c1a94.part4.bin"
       ]
     },
     {
       "sha256": "7c6e4ffc714a5cba5191d74408fe306606efae1a178c856d0da66903b8855128",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.1_7c6e4ffc.part5.bin",
-        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.1_7c6e4ffc.part5.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.2_7c6e4ffc.part5.bin",
+        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.2_7c6e4ffc.part5.bin"
       ]
     },
     {
       "sha256": "c773ac3190f5647184ba97289cd756ea6416136be7017b42fbe3ab764e588545",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.1_c773ac31.part6.bin",
-        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.1_c773ac31.part6.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.2_c773ac31.part6.bin",
+        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.2_c773ac31.part6.bin"
       ]
     },
     {
       "sha256": "4b821702a43d88cc0cbd21d40803bee6d1478a644b4e8d1d18194318ac677424",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.1_4b821702.part7.bin",
-        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.1_4b821702.part7.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.2_4b821702.part7.bin",
+        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.2_4b821702.part7.bin"
       ]
     },
     {
       "sha256": "e684e1497d642c7ac3284ebd349c8fbb2abee8a5fcc0eeebd00042f742743617",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.1_e684e149.part8.bin",
-        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.1_e684e149.part8.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.2_e684e149.part8.bin",
+        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.2_e684e149.part8.bin"
       ]
     },
     {
       "sha256": "acbbea26c5cf635002bb2d7760331a521c6c6ed4d57e826bba4013ec004bea8c",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.1_acbbea26.part9.bin",
-        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.1_acbbea26.part9.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.2_acbbea26.part9.bin",
+        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.2_acbbea26.part9.bin"
       ]
     },
     {
       "sha256": "03844867da942fd4b70bb6be73bbca17a53e56d674a4c868d40a6992516cbd0e",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.1_03844867.part10.bin",
-        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.1_03844867.part10.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.2_03844867.part10.bin",
+        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.2_03844867.part10.bin"
       ]
     },
     {
-      "sha256": "1ced56a44f86c28598221e1262da6a284bfb29d093510e2f1e4c36439ec850c7",
+      "sha256": "8fceaca148c528faf01933af90201e544cab3fd6a3cfc3ae2abaa3d3a83d7131",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.1_1ced56a4.part11.bin",
-        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.1_1ced56a4.part11.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.2_8fceaca1.part11.bin",
+        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.2_8fceaca1.part11.bin"
       ]
     },
     {
-      "sha256": "748845bcab91ce14c4d03871fc2aaf5dfae51163ea0602fde1f8f962e0ca71b7",
+      "sha256": "d0321e2113ef0764926583d2be60444dcb58784aac865a82f7ed9ef10c402d47",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.1_748845bc.part12.bin",
-        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.1_748845bc.part12.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.2_d0321e21.part12.bin",
+        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.2_d0321e21.part12.bin"
       ]
     },
     {
-      "sha256": "ad04119b3f784fc06b54c788414350bc2796817d9a2918c7b305d4ad2da374c7",
+      "sha256": "75cf0bbe3a0aed6d92abb3fcb3db71c7ca8338f94d0dd3231dc3d97b1397136a",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.1_ad04119b.part13.bin",
-        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.1_ad04119b.part13.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.2_75cf0bbe.part13.bin",
+        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.2_75cf0bbe.part13.bin"
       ]
     },
     {
-      "sha256": "ef6b8e7ccaa4736ce63d92f74bd6a5055d7b638ac3ec8f50782afba913278c87",
+      "sha256": "dc276c3ba23201708abe228b6cc2f6a16af217ed3757a045b6b5759e6ec2f578",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.1_ef6b8e7c.part14.bin",
-        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.1_ef6b8e7c.part14.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.2_dc276c3b.part14.bin",
+        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.2_dc276c3b.part14.bin"
       ]
     },
     {
-      "sha256": "dc23ead1b702b796cafaa4e43b8cf289234d47dfc603b72df364d92457c06b5d",
+      "sha256": "109511dd2aed098bcee578495ea1d1eb18635b6ea5802eb68ffb635939f27771",
       "urls": [
-        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.1_dc23ead1.part15.bin",
-        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.1_dc23ead1.part15.bin"
+        "https://gh-proxy.com/https://raw.githubusercontent.com/752153071/relay-course-3f9c71/main/update_2026.10.13.2_109511dd.part15.bin",
+        "https://github.com/752153071/relay-course-3f9c71/raw/main/update_2026.10.13.2_109511dd.part15.bin"
       ]
     }
   ],
   "urls": [
-    "https://github.com/752153071/relay-course-3f9c71/releases/download/v2026.10.13.1/update.zip"
+    "https://github.com/752153071/relay-course-3f9c71/releases/download/v2026.10.13.2/update.zip"
   ]
 }
